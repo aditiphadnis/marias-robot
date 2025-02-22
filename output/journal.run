@@ -1,0 +1,451 @@
+{"when":1740166781,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740166781,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.037s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740166781,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.002s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 2032/2033)"}
+{"when":1740166781,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740166782,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.383s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740166782,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.474s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740166782,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740166782,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740166783,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[2043:python3.12]"}
+{"when":1740166783,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740166783,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740166784,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.033s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 2900/2901)"}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.002s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.174s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.416s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740167353,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740167354,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[2915:python3.12]"}
+{"when":1740167354,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[2915:python3.12 2925:node]"}
+{"when":1740167355,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[2915:python3.12 2925:node 2927:Chromium]"}
+{"when":1740167357,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 4 ... map[2915:python3.12 2925:node 2927:Chromium 2939:profiles]"}
+{"when":1740167357,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[2915:python3.12 2925:node 2927:Chromium 2943:Chromium Helper 2944:Chromium Helper 2945:Chromium Helper 2947:Chromium Helper 2948:Chromium Helper ]"}
+{"when":1740167359,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[2915:python3.12]"}
+{"when":1740167359,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740167359,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740167360,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740167454,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740167454,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.036s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740167454,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 3112/3113)"}
+{"when":1740167454,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740167454,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.155s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740167455,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.397s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740167455,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740167455,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740167455,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[3123:rcc]"}
+{"when":1740167455,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[3123:python3.12]"}
+{"when":1740167456,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740167456,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740167457,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740167489,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740167489,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.035s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740167489,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.002s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 3196/3197)"}
+{"when":1740167489,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740167490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.159s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740167490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.388s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740167490,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740167490,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740167491,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[3203:python3.12]"}
+{"when":1740167491,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740167491,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740167492,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740167512,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740167512,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.032s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740167512,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 3253/3254)"}
+{"when":1740167512,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740167512,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.160s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740167513,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.397s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740167513,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740167513,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740167513,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[3261:python3.12]"}
+{"when":1740167514,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[3261:python3.12 3268:node]"}
+{"when":1740167515,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 4 ... map[3261:python3.12 3268:node 3270:Chromium 3275:profiles]"}
+{"when":1740167515,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[3261:python3.12 3268:node 3270:Chromium 3278:Chromium Helper 3279:Chromium Helper 3281:Chromium Helper 3283:Chromium Helper 3284:Chromium Helper ]"}
+{"when":1740167517,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740167517,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740167518,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.040s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.011s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 4016/4017)"}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.199s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.418s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168022,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[4024:rcc]"}
+{"when":1740168023,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[4024:python3.12]"}
+{"when":1740168024,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[4024:python3.12 4028:node]"}
+{"when":1740168024,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 4 ... map[4024:python3.12 4028:node 4034:Chromium 4039:profiles]"}
+{"when":1740168025,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[4024:python3.12 4028:node 4034:Chromium 4043:Chromium Helper 4044:Chromium Helper 4045:Chromium Helper 4047:Chromium Helper 4048:Chromium Helper ]"}
+{"when":1740168027,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[4024:python3.12]"}
+{"when":1740168027,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168027,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168028,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168393,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168393,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.033s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168393,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.002s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 4576/4577)"}
+{"when":1740168393,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168393,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.165s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168394,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.406s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168394,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168394,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168394,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[4586:python3.12]"}
+{"when":1740168395,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[4586:python3.12 4594:node]"}
+{"when":1740168395,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[4586:python3.12 4594:node 4596:Chromium]"}
+{"when":1740168396,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[4586:python3.12 4594:node 4596:Chromium 4605:Chromium Helper 4606:Chromium Helper 4607:Chromium Helper 4610:Chromium Helper 4611:Chromium Helper ]"}
+{"when":1740168398,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168398,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168399,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168682,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168682,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.037s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168682,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 5042/5043)"}
+{"when":1740168682,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168683,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.161s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168683,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.404s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168683,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168683,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168684,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[5056:python3.12]"}
+{"when":1740168686,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[5056:python3.12 5069:node]"}
+{"when":1740168687,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 8 ... map[5056:python3.12 5069:node 5070:Chromium 5079:Chromium Helper 5080:Chromium Helper 5081:Chromium Helper 5083:Chromium Helper 5084:Chromium Helper ]"}
+{"when":1740168689,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168689,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168690,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.031s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 5217/5218)"}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.158s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.398s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168735,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168736,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[5224:python3.12]"}
+{"when":1740168738,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[5224:python3.12 5236:node 5238:Chromium]"}
+{"when":1740168739,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[5224:python3.12 5236:node 5238:Chromium 5247:Chromium Helper 5248:Chromium Helper 5250:Chromium Helper 5253:Chromium Helper 5254:Chromium Helper ]"}
+{"when":1740168741,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[5224:python3.12]"}
+{"when":1740168741,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168741,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168742,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168782,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168782,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.042s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 5337/5338)"}
+{"when":1740168783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.167s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.396s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168783,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168783,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168784,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[5350:python3.12]"}
+{"when":1740168786,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[5350:python3.12 5362:node]"}
+{"when":1740168787,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 9 ... map[5350:python3.12 5362:node 5363:Chromium 5372:Chromium Helper 5373:Chromium Helper 5374:Chromium Helper 5375:Chromium Helper 5376:Chromium Helper 5377:Chromium Helper ]"}
+{"when":1740168787,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 9 to 8 ... map[5350:python3.12 5362:node 5363:Chromium 5372:Chromium Helper 5373:Chromium Helper 5374:Chromium Helper 5376:Chromium Helper 5377:Chromium Helper ]"}
+{"when":1740168789,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168789,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168790,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168832,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168832,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.034s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168832,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 5466/5467)"}
+{"when":1740168832,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168832,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.162s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168833,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.396s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168833,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168833,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168834,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[5474:python3.12]"}
+{"when":1740168836,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[5474:python3.12 5485:node 5486:Chromium]"}
+{"when":1740168836,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[5474:python3.12 5485:node 5486:Chromium 5495:Chromium Helper 5496:Chromium Helper 5497:Chromium Helper 5499:Chromium Helper 5500:Chromium Helper ]"}
+{"when":1740168838,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168838,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168840,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740168952,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740168952,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.033s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740168952,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.002s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 5692/5693)"}
+{"when":1740168952,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740168952,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.172s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740168953,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.423s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740168953,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740168953,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740168953,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[5706:rcc]"}
+{"when":1740168953,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[5706:python3.12]"}
+{"when":1740168955,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[5706:python3.12 5715:node]"}
+{"when":1740168956,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[5706:python3.12 5715:node 5721:Chromium]"}
+{"when":1740168957,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[5706:python3.12 5715:node 5721:Chromium 5730:Chromium Helper 5731:Chromium Helper 5732:Chromium Helper 5734:Chromium Helper 5735:Chromium Helper ]"}
+{"when":1740168959,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740168959,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740168960,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740200197,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740200197,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.037s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740200197,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 6295/6299)"}
+{"when":1740200197,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740200197,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.167s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740200198,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.420s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740200198,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740200198,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740200199,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[6307:python3.12]"}
+{"when":1740200201,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[6307:python3.12 6326:node]"}
+{"when":1740200201,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 4 ... map[6307:python3.12 6326:node 6328:Chromium 6333:profiles]"}
+{"when":1740200202,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 6 ... map[6307:python3.12 6326:node 6328:Chromium 6337:Chromium Helper 6338:Chromium Helper 6339:Chromium Helper]"}
+{"when":1740200202,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 6 to 8 ... map[6307:python3.12 6326:node 6328:Chromium 6337:Chromium Helper 6338:Chromium Helper 6339:Chromium Helper 6341:Chromium Helper 6342:Chromium Helper ]"}
+{"when":1740200204,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[6307:python3.12]"}
+{"when":1740200204,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740200204,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740200205,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740200512,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.035s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 6822/6824)"}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.161s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.468s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740200513,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[6838:rcc]"}
+{"when":1740200514,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[6838:python3.12]"}
+{"when":1740200516,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[6838:python3.12 6845:node]"}
+{"when":1740200517,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 4 ... map[6838:python3.12 6845:node 6851:Chromium 6856:profiles]"}
+{"when":1740200517,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[6838:python3.12 6845:node 6851:Chromium 6860:Chromium Helper 6861:Chromium Helper 6862:Chromium Helper 6864:Chromium Helper 6865:Chromium Helper ]"}
+{"when":1740200522,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740200522,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740200523,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740200578,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.038s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 7022/7023)"}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.156s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.391s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740200579,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740200580,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[7031:python3.12]"}
+{"when":1740200582,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[7031:python3.12 7047:node]"}
+{"when":1740200582,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[7031:python3.12 7047:node 7050:Chromium]"}
+{"when":1740200583,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[7031:python3.12 7047:node 7050:Chromium 7062:Chromium Helper 7064:Chromium Helper 7065:Chromium Helper 7067:Chromium Helper 7068:Chromium Helper ]"}
+{"when":1740200589,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740200589,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 0 ... map[]"}
+{"when":1740200589,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740200589,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.036s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 7168/7169)"}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.165s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.401s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740200625,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740200626,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[7179:python3.12]"}
+{"when":1740200628,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[7179:python3.12 7193:node]"}
+{"when":1740200629,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 9 ... map[7179:python3.12 7193:node 7198:Chromium 7207:Chromium Helper 7208:Chromium Helper 7209:Chromium Helper 7210:Chromium Helper 7211:Chromium Helper 7212:Chromium Helper ]"}
+{"when":1740200629,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 9 to 8 ... map[7179:python3.12 7193:node 7198:Chromium 7207:Chromium Helper 7208:Chromium Helper 7209:Chromium Helper 7211:Chromium Helper 7212:Chromium Helper ]"}
+{"when":1740200632,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740200632,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740200633,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740201343,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740201343,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.034s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740201343,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 8221/8222)"}
+{"when":1740201343,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740201343,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.157s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740201344,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.391s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740201344,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740201344,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740201344,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[8232:python3.12]"}
+{"when":1740201348,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[8232:python3.12 8248:node]"}
+{"when":1740201348,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 4 ... map[8232:python3.12 8248:node 8250:Chromium 8255:profiles]"}
+{"when":1740201349,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[8232:python3.12 8248:node 8250:Chromium 8259:Chromium Helper 8260:Chromium Helper 8261:Chromium Helper 8265:Chromium Helper 8266:Chromium Helper ]"}
+{"when":1740201352,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[8232:python3.12]"}
+{"when":1740201352,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740201352,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740201353,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.036s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 8398/8399)"}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.158s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.393s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740201418,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740201419,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[8406:python3.12]"}
+{"when":1740201422,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[8406:python3.12 8419:node 8421:Chromium 8426:profiles]"}
+{"when":1740201423,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[8406:python3.12 8419:node 8421:Chromium 8429:Chromium Helper 8430:Chromium Helper 8432:Chromium Helper 8434:Chromium Helper 8435:Chromium Helper ]"}
+{"when":1740201427,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740201427,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740201428,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740201783,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740201783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.038s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740201783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 8974/8975)"}
+{"when":1740201783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740201783,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.170s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740201784,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.397s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740201784,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740201784,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740201785,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[8982:python3.12]"}
+{"when":1740201788,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[8982:python3.12 8996:node]"}
+{"when":1740201788,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 5 ... map[8982:python3.12 8996:node 9002:Chromium 9011:Chromium Helper 9012:Chromium Helper]"}
+{"when":1740201789,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 5 to 8 ... map[8982:python3.12 8996:node 9002:Chromium 9011:Chromium Helper 9012:Chromium Helper 9013:Chromium Helper 9016:Chromium Helper 9017:Chromium Helper ]"}
+{"when":1740201791,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[8982:python3.12]"}
+{"when":1740201791,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740201791,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740201792,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.039s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 9198/9199)"}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.003s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.156s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.395s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740201897,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740201898,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[9213:python3.12]"}
+{"when":1740201901,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[9213:python3.12 9227:node 9229:Chromium 9234:profiles]"}
+{"when":1740201902,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[9213:python3.12 9227:node 9229:Chromium 9237:Chromium Helper 9239:Chromium Helper 9240:Chromium Helper 9242:Chromium Helper 9243:Chromium Helper ]"}
+{"when":1740201947,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740201947,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740201948,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.036s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 9558/9559)"}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.167s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.398s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740202036,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740202037,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[9572:python3.12]"}
+{"when":1740202040,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[9572:python3.12 9589:node 9591:Chromium]"}
+{"when":1740202041,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[9572:python3.12 9589:node 9591:Chromium 9600:Chromium Helper 9601:Chromium Helper 9602:Chromium Helper 9604:Chromium Helper 9605:Chromium Helper ]"}
+{"when":1740202085,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740202085,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740202086,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.044s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 10000/10001)"}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.162s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.398s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740202244,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740202245,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[10011:python3.12]"}
+{"when":1740202248,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[10011:python3.12 10023:node 10025:Chromium 10030:profiles]"}
+{"when":1740202249,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[10011:python3.12 10023:node 10025:Chromium 10038:Chromium Helper 10039:Chromium Helper 10040:Chromium Helper 10042:Chromium Helper 10043:Chromium Helper ]"}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.035s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 10203/10204)"}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.161s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.397s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740202318,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740202319,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[10210:python3.12]"}
+{"when":1740202322,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[10210:python3.12 10229:node 10231:Chromium 10236:profiles]"}
+{"when":1740202323,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 4 to 8 ... map[10210:python3.12 10229:node 10231:Chromium 10240:Chromium Helper 10241:Chromium Helper 10242:Chromium Helper 10244:Chromium Helper 10245:Chromium Helper ]"}
+{"when":1740202373,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[10210:python3.12]"}
+{"when":1740202373,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740202373,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740202374,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.033s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 10611/10612)"}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.161s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.389s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740202490,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[10622:rcc]"}
+{"when":1740202491,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[10622:python3.12]"}
+{"when":1740202494,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[10622:python3.12 10637:node 10643:Chromium]"}
+{"when":1740202495,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[10622:python3.12 10637:node 10643:Chromium 10652:Chromium Helper 10653:Chromium Helper 10654:Chromium Helper 10656:Chromium Helper 10657:Chromium Helper ]"}
+{"when":1740202505,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 9 ... map[10622:python3.12 10637:node 10643:Chromium 10652:Chromium Helper 10653:Chromium Helper 10654:Chromium Helper 10656:Chromium Helper 10657:Chromium Helper 10695:Chromium Helper ]"}
+{"when":1740202538,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 9 to 8 ... map[10622:python3.12 10637:node 10643:Chromium 10652:Chromium Helper 10653:Chromium Helper 10654:Chromium Helper 10656:Chromium Helper 10695:Chromium Helper ]"}
+{"when":1740202538,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1740202538,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740202540,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740202820,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740202820,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.037s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740202820,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 11214/11215)"}
+{"when":1740202820,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740202821,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.164s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740202821,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.431s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740202821,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740202821,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740202822,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[11223:python3.12]"}
+{"when":1740202825,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[11223:python3.12 11235:node 11241:Chromium]"}
+{"when":1740202825,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 7 ... map[11223:python3.12 11235:node 11241:Chromium 11250:Chromium Helper 11251:Chromium Helper 11252:Chromium Helper 11253:Chromium Helper ]"}
+{"when":1740202826,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 7 to 8 ... map[11223:python3.12 11235:node 11241:Chromium 11250:Chromium Helper 11251:Chromium Helper 11252:Chromium Helper 11255:Chromium Helper 11256:Chromium Helper ]"}
+{"when":1740202889,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 6 ... map[11223:python3.12 11235:node 11241:Chromium 11250:Chromium Helper 11251:Chromium Helper 11252:Chromium Helper]"}
+{"when":1740202889,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740202889,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740202890,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740203058,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740203058,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.035s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740203058,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 11740/11741)"}
+{"when":1740203058,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.003s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740203059,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.209s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740203059,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.403s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740203059,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740203059,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740203060,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[11752:python3.12]"}
+{"when":1740203065,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[11752:python3.12 11778:node]"}
+{"when":1740203066,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[11752:python3.12 11778:node 11780:Chromium]"}
+{"when":1740203066,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[11752:python3.12 11778:node 11780:Chromium 11789:Chromium Helper 11790:Chromium Helper 11791:Chromium Helper 11793:Chromium Helper 11794:Chromium Helper ]"}
+{"when":1740203120,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740203120,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740203121,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740203143,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740203143,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.032s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740203143,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.003s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 12033/12038)"}
+{"when":1740203143,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.004s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740203144,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.167s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740203144,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.392s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740203144,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740203144,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740203145,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[12049:python3.12]"}
+{"when":1740203150,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[12049:python3.12 12074:node]"}
+{"when":1740203150,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[12049:python3.12 12074:node 12076:Chromium]"}
+{"when":1740203151,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[12049:python3.12 12074:node 12076:Chromium 12085:Chromium Helper 12086:Chromium Helper 12087:Chromium Helper 12089:Chromium Helper 12090:Chromium Helper ]"}
+{"when":1740203194,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 6 ... map[12049:python3.12 12074:node 12076:Chromium 12085:Chromium Helper 12086:Chromium Helper 12087:Chromium Helper]"}
+{"when":1740203194,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740203194,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740203195,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740203262,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740203262,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.033s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740203262,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.002s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 12385/12386)"}
+{"when":1740203262,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740203262,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.172s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740203263,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.404s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740203263,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740203263,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740203264,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[12396:python3.12]"}
+{"when":1740203268,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[12396:python3.12 12418:node]"}
+{"when":1740203269,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[12396:python3.12 12418:node 12420:Chromium]"}
+{"when":1740203270,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[12396:python3.12 12418:node 12420:Chromium 12429:Chromium Helper 12430:Chromium Helper 12431:Chromium Helper 12433:Chromium Helper 12434:Chromium Helper ]"}
+{"when":1740203344,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 2 ... map[12396:python3.12 12418:node]"}
+{"when":1740203345,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740203345,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740203346,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740203453,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740203453,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.035s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740203453,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.004s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 12871/12872)"}
+{"when":1740203453,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.005s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740203454,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.164s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740203454,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.393s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740203454,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740203454,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740203455,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[12880:python3.12]"}
+{"when":1740203460,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[12880:python3.12 12903:node]"}
+{"when":1740203460,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[12880:python3.12 12903:node 12905:Chromium]"}
+{"when":1740203461,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[12880:python3.12 12903:node 12905:Chromium 12914:Chromium Helper 12915:Chromium Helper 12916:Chromium Helper 12918:Chromium Helper 12919:Chromium Helper ]"}
+{"when":1740203536,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[12880:python3.12]"}
+{"when":1740203536,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740203536,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740203537,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
+{"when":1740203566,"controller":"rcc.sema4aicode","event":"start task","detail":"name=Run Task from=/Users/aditiphadnis/Documents/Github Projects/marias-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1740203566,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 00/15 v18.5.0 0.036s Context: \"Aditi Phadnis\" \u003caditiphadnis@192.168.1.5\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 15.1; BuildVersion: 24B83]."}
+{"when":1740203566,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 01/15 v18.5.0 0.002s Fresh [shared mode] holotree environment 94ea0042-c467-feee-93ac-ec2739ac7d84. (parent/pid: 13236/13237)"}
+{"when":1740203566,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 02/15 v18.5.0 0.003s Holotree blueprint is \"f8473fc0a8802d39\" [darwin_amd64 with 7 workers on 8 CPUs from \"conda.yaml\"]."}
+{"when":1740203566,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 14/15 v18.5.0 0.162s Restore space from library [with 7 workers on 8 CPUs; with compression: true]."}
+{"when":1740203567,"controller":"rcc.sema4aicode","event":"environment","detail":"build","comment":"Progress: 15/15 v18.5.0 0.432s Fresh holotree done [with 7 workers on 8 CPUs]."}
+{"when":1740203567,"controller":"rcc.sema4aicode","event":"start","detail":"robot","comment":"started"}
+{"when":1740203567,"controller":"rcc.sema4aicode","event":"run","detail":"robot","comment":"task run"}
+{"when":1740203567,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[13247:python3.12]"}
+{"when":1740203572,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 1 to 2 ... map[13247:python3.12 13269:node]"}
+{"when":1740203573,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 2 to 3 ... map[13247:python3.12 13269:node 13271:Chromium]"}
+{"when":1740203574,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[13247:python3.12 13269:node 13271:Chromium 13280:Chromium Helper 13281:Chromium Helper 13282:Chromium Helper 13284:Chromium Helper 13285:Chromium Helper ]"}
+{"when":1740203624,"controller":"rcc.sema4aicode","event":"processes","detail":"updated","comment":"count from 8 to 1 ... map[13247:python3.12]"}
+{"when":1740203624,"controller":"rcc.sema4aicode","event":"robot exit","detail":"From rcc \"v18.5.0\" (controller: \"Sema4aiCode\") point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1740203624,"controller":"rcc.sema4aicode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1740203625,"controller":"rcc.sema4aicode","event":"stop","detail":"robot","comment":"done"}
