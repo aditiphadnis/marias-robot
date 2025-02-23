@@ -1,10 +1,10 @@
-# Template: Python - Minimal
+# Automation for Maria's Mundane Tasks
 
-This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/docs/README.md#python-libraries) from to same project as well.
+This robot automates the mundane tasks Maria has to do every week. She has to pull an excel with the sales data and fill the information into the CRM on the companies intranet. 
+She used to do this manually. But now we have automated her tasks using Robocorp RPA framework.
+Now Maria has more time to spend on other tasks and also relax. 
 
-The template provides you with the basic structure of a Python project: logging out of the box and controlling your tasks without fiddling with the base Python stuff. The environment contains the most used libraries, so you do not have to start thinking about those right away. 
-
-👉 Other templates are available as well via our tooling and on our [Portal](https://robocorp.com/portal/tag/template)
+👉 To check out, fork this repository, clone this repository into your VS code and click on Shift + Command + P (or fpr windows Shift + Ctrl + P) and click on Run Task Pakage
 
 ## Running
 
